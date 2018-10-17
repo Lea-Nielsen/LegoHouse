@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 public class Connector {
 
-    private static final String URL = "jdbc:mysql://localhost/legohus?autoReconnect=true&serverTimezone=CET";
+    private static final String URL = "jdbc:mysql://46.101.210.61/legohus";
     private static final String USERNAME = "connect";
     private static final String PASSWORD = "connect";
 
