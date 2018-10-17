@@ -1,2 +1,1 @@
-# LegoHouse
-3. Modul - LegoHouse opgave
+# Modul3LogInSample
